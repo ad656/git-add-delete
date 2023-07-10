@@ -1,3 +1,5 @@
+#Author - Allan
+#Date - 7/10/23
 import requests
 import json
 
